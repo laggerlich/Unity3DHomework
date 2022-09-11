@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1095E53F-7F02-0617-B751-54D5BB06C4F4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RandomObjectSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RandomObjectSpawner.cs" Line="20" Column="42" />
+      <File FileName="Assets/Scripts/Move.cs" Line="20" Column="55" />
+      <File FileName="Assets/Scripts/SpawnAndMove.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7aa2e4bb-10c0-4fc1-b143-e5d12021b004" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
