@@ -357,6 +357,8 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/Move.cs"
 "Assets/Scripts/RandomObjectSpawner.cs"
+"Assets/Scripts/Rescaling.cs"
+"Assets/Scripts/Spawn2.cs"
 "Assets/Scripts/SpawnAndMove.cs"
 -langversion:9.0
 
