@@ -56,9 +56,15 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/ControlledSpawn.cs" />
+    <Compile Include="Assets/Scripts/GreenColor.cs" />
+    <Compile Include="Assets/Scripts/RedColor.cs" />
     <Compile Include="Assets/Scripts/Spawn2.cs" />
+    <Compile Include="Assets/Scripts/buttonSpawnStart.cs" />
     <Compile Include="Assets/Scripts/RandomObjectSpawner.cs" />
     <Compile Include="Assets/Scripts/Move.cs" />
+    <Compile Include="Assets/Scripts/SetColor.cs" />
+    <Compile Include="Assets/Scripts/BlueColor.cs" />
     <Compile Include="Assets/Scripts/SpawnAndMove.cs" />
     <Compile Include="Assets/Scripts/Rescaling.cs" />
   </ItemGroup>
